@@ -271,7 +271,7 @@ Created for hackathon submission. All rights reserved.
 ### GitHub Pages
 1. Push to GitHub
 2. Enable Pages in settings
-3. Live at: `username.github.io/repo`
+3. Live at: https://github.com/rishabh-sajwan-99/Sugar-Spike.git
 
 ### Netlify
 ```bash
