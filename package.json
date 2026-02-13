@@ -1,0 +1,22 @@
+{
+  "name": "sugar-spike-app",
+  "version": "2.0.0",
+  "description": "A gamified health tracking app to reduce sugar consumption",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 -c-1",
+    "dev": "npx http-server -p 8080 -c-1 --cors",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "health",
+    "sugar",
+    "tracking",
+    "gamification",
+    "wellness"
+  ],
+  "author": "Your Team Name",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
