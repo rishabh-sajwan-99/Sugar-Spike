@@ -266,25 +266,6 @@ All mandatory features implemented:
 
 Created for hackathon submission. All rights reserved.
 
-## 🚀 Deployment Options
-
-### GitHub Pages
-1. Push to GitHub
-2. Enable Pages in settings
-3. Live at: https://github.com/rishabh-sajwan-99/Sugar-Spike.git
-
-### Netlify
-```bash
-npm install -g netlify-cli
-netlify deploy
-```
-
-### Vercel
-```bash
-npm install -g vercel
-vercel
-```
-
 ## 🎉 Credits
 
 - **Fonts**: Google Fonts
