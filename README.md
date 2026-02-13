@@ -1,3 +1,5 @@
+Live Demo: https://rishabh-sajwan-99.github.io/Sugar-Spike/
+
 # 🍬 Sugar Spike - Your Sweet Health Companion
 
 A beautiful, gamified web application that helps users reduce sugar consumption through real-time feedback, contextual insights, and habit formation.
